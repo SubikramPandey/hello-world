@@ -1,4 +1,5 @@
 hello-world
 ===========
-
-My first repository
+Hello future readers!
+You have found my first repository
+It does not do much since it was completed more as a learning exercise
